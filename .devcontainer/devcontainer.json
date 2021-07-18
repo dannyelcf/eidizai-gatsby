@@ -1,0 +1,8 @@
+{
+    "name": "eidizai",
+    "dockerFile": "Dockerfile",
+    "appPort": 3500,
+    "extensions": ["dbaeumer.vscode-eslint", "syler.sass-indented"],
+    "settings": {},
+    "postCreateCommand": "yarn install"
+  }
